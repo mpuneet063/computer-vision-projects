@@ -1,0 +1,6 @@
+outs:
+- md5: 090936a5b20d8d0b64fac9ffa5b60501.dir
+  size: 60371971
+  nfiles: 1003
+  hash: md5
+  path: BSR
