@@ -1,63 +1,66 @@
-# writing custom loss function to train model for contours detection
+# Custom loss function for training the HED contour detector.
 
-""""
-The basic idea is that standard cross-entropy loss will be efficient in pictures where edge pixels
-form only a minority of all pixels. Therefore, a weighted cross-entropy is required
 """
-from math import inf
-from sympy.multipledispatch.conflict import edge
+Standard cross-entropy is dominated by background in edge detection, because edge
+pixels are only a small minority of all pixels. So we use a class-balanced version:
+the rare edge pixels get a large weight, the common background pixels a small one.
+"""
+
 import torch
-import torch.nn as nn
-import torch.nn.functional as F 
+import torch.nn.functional as F
 
-def cross_entropy_loss_certainty(pred, target):
+
+def class_balanced_bce(pred, target, edge_threshold=0.3):
     """
-    Computes class-balanced cross-entropy loss for edge detection, 
-    accounting for extreme class imbalance between edge and background pixels
+    pred:   RAW LOGITS straight from the network. Do NOT apply sigmoid here --
+            binary_cross_entropy_with_logits already does it internally.
+    target: ground-truth edge map with values in [0, 1].
     """
-    pred = torch.sigmoid(pred)
 
-    # calculate weight beta based on the ratio of background pixels to total pixels
-    # target > 0.5 represents edge pixels, target <= 0.5 represents background
-    inf_mask = (target > 0.05).float()
+    # The ground truth starts out as a crisp 0/1 map, but resizing it to 256x256
+    # blurs the lines into soft grey halos. Pixels clearly above the threshold count
+    # as edges, pixels at exactly 0 count as background, and the ambiguous grey band
+    # in between is ignored entirely rather than guessed at.
+    edge_mask = (target > edge_threshold).float()
+    valid_mask = ((target > edge_threshold) | (target == 0)).float()
 
-    # count total pixels and edge pixels
-    total_pixels = target.numel()   # numel menas number of elements in a tensor
-    edge_pixels = torch.sum(inf_mask)
-    non_edge_pixels = total_pixels - edge_pixels
+    num_edge = edge_mask.sum()
+    num_valid = valid_mask.sum()
+    num_background = num_valid - num_edge
 
-    if edge_pixels == 0 or non_edge_pixels == 0:
-        # fallback to standard binary cross-entropy if a batch is completely blank
-        return F.binary_cross_entropy_with_logits(pred, target)
+    if num_edge == 0 or num_background == 0:
+        # Fallback for a batch that contains no edges at all.
+        return F.binary_cross_entropy_with_logits(pred, edge_mask)
 
-    beta = non_edge_pixels / total_pixels
+    # beta is the fraction of valid pixels that are background (typically ~0.9).
+    # Edge pixels get weight beta, background pixels get weight (1 - beta), so the
+    # two classes end up contributing roughly equally to the total loss.
+    beta = num_background / num_valid
+    weight = (edge_mask * beta + (1.0 - edge_mask) * (1.0 - beta)) * valid_mask
 
-    # compute weighted binary cross-entropy elements
-    # weight applied to positive (edge) class is beta, negative class is (1-beta)
+    loss = F.binary_cross_entropy_with_logits(
+        pred, edge_mask, weight=weight, reduction="sum"
+    )
 
-    weight_factor = inf_mask * beta + (1-inf_mask)*(1-beta)
+    return loss / num_valid
 
-    loss = F.binary_cross_entropy_with_logits(pred, target, weight=weight_factor)
-
-    return loss
 
 def hed_loss(outputs, targets):
     """
-    Computes total deep supervision loss for HED.
-    outputs: list containing 5 side output tensors + 1 fused tensor 
-    targets: ground truth edge map tensor
+    Deep-supervision loss for HED.
+    outputs: list of 5 side-output tensors + 1 fused tensor (all raw logits)
+    targets: ground-truth edge map tensor
     """
-
     if targets.dim() == 3:
         targets = targets.unsqueeze(1)
 
     loss = 0.0
-    # calculate loss for each of the 5 side-output layeres
-    for d in outputs[:-1]:
-        loss += cross_entropy_loss_certainty(d, targets)
 
-    # calculate loss for each of the 5 side-output layers
-    fuse_output = outputs[-1]
-    loss += cross_entropy_loss_certainty(fuse_output, targets)
+    # Every side output is trained against the ground truth directly.
+    for side_output in outputs[:-1]:
+        loss += class_balanced_bce(side_output, targets)
+
+    # ...and so is the fused output.
+    loss += class_balanced_bce(outputs[-1], targets)
 
     return loss

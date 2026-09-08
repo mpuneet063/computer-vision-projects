@@ -1,0 +1,1446 @@
+===> Epoch 1 Complete | Average Loss: 0.1921 | Mean edge probability: 0.4227
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_1.pth
+===> Epoch 2 Complete | Average Loss: 0.1714 | Mean edge probability: 0.3539
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_2.pth
+===> Epoch 3 Complete | Average Loss: 0.1638 | Mean edge probability: 0.3318
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_3.pth
+===> Epoch 4 Complete | Average Loss: 0.1549 | Mean edge probability: 0.3059
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_4.pth
+===> Epoch 5 Complete | Average Loss: 0.1504 | Mean edge probability: 0.2941
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_5.pth
+===> Epoch 6 Complete | Average Loss: 0.1470 | Mean edge probability: 0.2846
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_6.pth
+===> Epoch 7 Complete | Average Loss: 0.1447 | Mean edge probability: 0.2731
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_7.pth
+===> Epoch 8 Complete | Average Loss: 0.1400 | Mean edge probability: 0.2624
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_8.pth
+===> Epoch 9 Complete | Average Loss: 0.1402 | Mean edge probability: 0.2661
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_9.pth
+===> Epoch 10 Complete | Average Loss: 0.1357 | Mean edge probability: 0.2481
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_10.pth
+===> Epoch 11 Complete | Average Loss: 0.1342 | Mean edge probability: 0.2429
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_11.pth
+===> Epoch 12 Complete | Average Loss: 0.1307 | Mean edge probability: 0.2377
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_12.pth
+===> Epoch 13 Complete | Average Loss: 0.1303 | Mean edge probability: 0.2279
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_13.pth
+===> Epoch 14 Complete | Average Loss: 0.1287 | Mean edge probability: 0.2275
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_14.pth
+===> Epoch 15 Complete | Average Loss: 0.1271 | Mean edge probability: 0.2240
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+his_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+12
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability0.1993
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability0.2001
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+Checkpoint savedmtoe/teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint savedmtoe/teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 13 Complete | Average Loss: 0.1303 | Mean edge probability: 0.2279
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_13.pth
+===> Epoch 14 Complete | Average Loss: 0.1287 | Mean edge probability: 0.2275
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_14.pth
+===> Epoch 15 Complete | Average Loss: 0.1271 | Mean edge probability: 0.2240
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 13 Complete | Average Loss: 0.1303 | Mean edge probability: 0.2279
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_13.pth
+===> Epoch 14 Complete | Average Loss: 0.1287 | Mean edge probability: 0.2275
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_14.pth
+===> Epoch 15 Complete | Average Loss: 0.1271 | Mean edge probability: 0.2240
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 13 Complete | Average Loss: 0.1303 | Mean edge probability: 0.2279
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_13.pth
+===> Epoch 14 Complete | Average Loss: 0.1287 | Mean edge probability: 0.2275
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_14.pth
+===> Epoch 15 Complete | Average Loss: 0.1271 | Mean edge probability: 0.2240
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+
+
+
+
+
+
+
+
+
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+
+
+
+
+
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+
+
+
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 15 Complete | Average Loss: 0.1271 | Mean edge probability: 0.2240
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
+===> Epoch 13 Complete | Average Loss: 0.1303 | Mean edge probability: 0.2279
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_13.pth
+===> Epoch 14 Complete | Average Loss: 0.1287 | Mean edge probability: 0.2275
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_14.pth
+===> Epoch 15 Complete | Average Loss: 0.1271 | Mean edge probability: 0.2240
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_15.pth
+===> Epoch 16 Complete | Average Loss: 0.1300 | Mean edge probability: 0.2337
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_16.pth
+===> Epoch 17 Complete | Average Loss: 0.1254 | Mean edge probability: 0.2211
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_17.pth
+===> Epoch 18 Complete | Average Loss: 0.1299 | Mean edge probability: 0.2344
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_18.pth
+===> Epoch 19 Complete | Average Loss: 0.1259 | Mean edge probability: 0.2204
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_19.pth
+===> Epoch 20 Complete | Average Loss: 0.1233 | Mean edge probability: 0.2167
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_20.pth
+===> Epoch 21 Complete | Average Loss: 0.1214 | Mean edge probability: 0.2066
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_21.pth
+===> Epoch 22 Complete | Average Loss: 0.1206 | Mean edge probability: 0.2065
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_22.pth
+===> Epoch 23 Complete | Average Loss: 0.1213 | Mean edge probability: 0.2061
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_23.pth
+===> Epoch 24 Complete | Average Loss: 0.1215 | Mean edge probability: 0.2112
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_24.pth
+===> Epoch 25 Complete | Average Loss: 0.1185 | Mean edge probability: 0.1993
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_25.pth
+===> Epoch 26 Complete | Average Loss: 0.1199 | Mean edge probability: 0.2001
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_26.pth
+===> Epoch 27 Complete | Average Loss: 0.1173 | Mean edge probability: 0.1959
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_27.pth
+===> Epoch 28 Complete | Average Loss: 0.1172 | Mean edge probability: 0.1956
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_28.pth
+===> Epoch 29 Complete | Average Loss: 0.1182 | Mean edge probability: 0.1984
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_29.pth
+===> Epoch 30 Complete | Average Loss: 0.1170 | Mean edge probability: 0.1943
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_30.pth
+===> Epoch 31 Complete | Average Loss: 0.1145 | Mean edge probability: 0.1874
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_31.pth
+===> Epoch 32 Complete | Average Loss: 0.1155 | Mean edge probability: 0.1888
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_32.pth
+===> Epoch 33 Complete | Average Loss: 0.1152 | Mean edge probability: 0.1911
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_33.pth
+===> Epoch 34 Complete | Average Loss: 0.1146 | Mean edge probability: 0.1905
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_34.pth
+===> Epoch 35 Complete | Average Loss: 0.1147 | Mean edge probability: 0.1881
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_35.pth
+===> Epoch 36 Complete | Average Loss: 0.1143 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_36.pth
+===> Epoch 37 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1849
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_37.pth
+===> Epoch 38 Complete | Average Loss: 0.1150 | Mean edge probability: 0.1912
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_38.pth
+===> Epoch 39 Complete | Average Loss: 0.1132 | Mean edge probability: 0.1844
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_39.pth
+===> Epoch 40 Complete | Average Loss: 0.1128 | Mean edge probability: 0.1824
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_40.pth
+===> Epoch 41 Complete | Average Loss: 0.1148 | Mean edge probability: 0.1916
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_41.pth
+===> Epoch 42 Complete | Average Loss: 0.1127 | Mean edge probability: 0.1859
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_42.pth
+===> Epoch 43 Complete | Average Loss: 0.1104 | Mean edge probability: 0.1794
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_43.pth
+===> Epoch 44 Complete | Average Loss: 0.1100 | Mean edge probability: 0.1793
+Checkpoint saved to /teamspace/studios/this_studio/Contours/src/../checkpoints/hed_epoch_44.pth
