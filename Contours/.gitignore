@@ -4,3 +4,5 @@
         ../.vscode/
         ../.windsurf-server
 ../checkpoints
+src/train.log
+src/train.log
