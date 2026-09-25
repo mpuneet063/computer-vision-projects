@@ -24,25 +24,32 @@ def train():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
 
-    transform = transforms.Compose([
-        transforms.Resize(IMAGE_SIZE),
-        transforms.ToTensor(),
-    ])
     # Colour normalization is applied to the input images only, never to the labels.
     # inference.py must use these exact same numbers.
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
 
     print("Loading BSDS500 training dataset...")
-    train_dataset = BSDS500Dataset(data_dir=root_data_dir, split="train", transform=transform)
+    train_dataset = BSDS500Dataset(data_dir=root_data_dir, split="train", image_size = IMAGE_SIZE)
     train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True, num_workers=2)
     print(f"Total training samples: {len(train_dataset)}")
 
+    # val set
+    val_dataset = BSDS500Dataset(data_dir=root_data_dir, split='val', image_size=IMAGE_SIZE)
+    val_loader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=False, num_workers=2)
     model = HED().to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
 
     start_epoch = 0
     existing_checkpoints = glob.glob(os.path.join(checkpoint_dir, "hed_epoch_*.pth"))
+
+    # create scheduler for LR decay
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        optimizer=optimizer,
+        mode = 'min', 
+        factor = 0.1,
+        patience = 10
+    )
 
     if existing_checkpoints:
         latest_checkpoint = max(existing_checkpoints,
@@ -61,6 +68,11 @@ def train():
         optimizer.load_state_dict(checkpoint["optimizer_state"])
         start_epoch = checkpoint["epoch"]
 
+        if "scheduler_state" not in checkpoint:
+            print("No scheduler state in checkpoint. Starting fresh")
+        else:
+            scheduler.load_state_dict(checkpoint['scheduler_state'])
+
         print(f"Found existing checkpoint: {os.path.basename(latest_checkpoint)}")
         print(f"Resuming training from Epoch {start_epoch + 1}...")
     else:
@@ -75,7 +87,7 @@ def train():
     for epoch in range(start_epoch, TOTAL_EPOCHS):
         epoch_loss = 0.0
         edge_fraction = 0.0
-
+        
         for batch_idx, (images, labels) in enumerate(train_loader):
             images, labels = images.to(device), labels.to(device)
             images = normalize(images)
@@ -100,12 +112,32 @@ def train():
         avg_edge_fraction = edge_fraction / len(train_loader)
         print(f"===> Epoch {epoch+1} Complete | Average Loss: {avg_epoch_loss:.4f} "
               f"| Mean edge probability: {avg_edge_fraction:.4f}")
+        
+        # validation
+        model.eval()
+        val_loss_total = 0.0
+
+        with torch.no_grad():
+
+            for images, labels in val_loader:
+                images, labels = images.to(device), labels.to(device)
+                images = normalize(images)
+
+                outputs = model(images)
+                loss = hed_loss(outputs, labels)
+                
+                val_loss_total += loss.item()
+
+        avg_val_loss = val_loss_total / len(val_loader)
+        scheduler.step(avg_val_loss)
+        model.train()   # switch to training
 
         checkpoint_path = os.path.join(checkpoint_dir, f"hed_epoch_{epoch+1}.pth")
         torch.save({
             "epoch": epoch + 1,
             "model_state": model.state_dict(),
             "optimizer_state": optimizer.state_dict(),
+            "scheduler_state": scheduler.state_dict()
         }, checkpoint_path)
         print(f"Checkpoint saved to {checkpoint_path}")
 

@@ -6,3 +6,10 @@
 ../checkpoints
 src/train.log
 src/train.log
+src/checkpoints
+src/checkpoints/hed_epoch_300.pth
+eval
+GCP_instance
+checkpoints
+checkpoints_baseline_v1
+../.lightning_studio
