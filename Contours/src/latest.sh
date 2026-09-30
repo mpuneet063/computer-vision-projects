@@ -1,0 +1,1 @@
+gcloud logging read 'resource.type="cloud_run_revision" AND resource.labels.service_name="hed-sketch-server" AND severity>=ERROR' --limit 20 --freshness=1h --order=desc --format='value(timestamp,textPayload)'

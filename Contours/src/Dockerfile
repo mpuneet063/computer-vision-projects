@@ -12,6 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Your existing model code + the serving wrapper
 COPY model.py server.py ./
+RUN python -c "from torchvision.models import vgg16, VGG16_Weights; vgg16(weights=VGG16_Weights.DEFAULT)"
 
 # Your trained checkpoint — rename yours to match, or override
 # CHECKPOINT_PATH below to point at whatever filename you use.

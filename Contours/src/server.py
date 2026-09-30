@@ -1,9 +1,8 @@
 """
-LitServe wrapper around the HED model. Serves ONLY side-output-1 (the
-finest, most "pencil" layer) as an inverted sketch, matching the
-Contours aesthetic goal (thin, sketchy lines, not a benchmark edge map).
+LitServe wrapper around the HED model. Serves only side-output-1 (the
+finest, most pencil-like layer) as an inverted sketch.
 
-Request:  {"image_base64": "<base64-encoded jpg/png>"}
+Request:  {"image_base64": "<base64-encoded jpg or png>"}
 Response: {"sketch_base64": "<base64-encoded png>"}
 """
 
@@ -51,10 +50,8 @@ class HEDSketchAPI(ls.LitAPI):
         x = self.normalize(x)
 
         outputs = self.model(x)
-        side1_logits = outputs[0]  # finest side-output, most "pencil"
+        side1_logits = outputs[0]
 
-        # sigmoid -> probability of "edge"; invert so edges are dark
-        # on a white background, like pencil on paper
         side1_prob = torch.sigmoid(side1_logits)
         sketch = 1.0 - side1_prob
 
@@ -69,8 +66,7 @@ class HEDSketchAPI(ls.LitAPI):
 
 
 if __name__ == "__main__":
+    print("HED SERVER VERSION 2026-09-28-A", flush=True)
     api = HEDSketchAPI()
     server = ls.LitServer(api, accelerator="cpu")
-    # Cloud Run injects $PORT (defaults to 8080) — read it so the
-    # container listens on whatever port the platform expects.
-    server.run(port=int(os.environ.get("PORT", 8000)))export OPENCLAW_IMAGE="ghcr.io/openclaw/openclaw:latest"
+    server.run(port=int(os.environ.get("PORT", 8000)))
